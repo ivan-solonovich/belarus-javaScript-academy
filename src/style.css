@@ -1,0 +1,7 @@
+/*The Google font Roboto 400 Import */
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+/* TailWind styles import*/
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
